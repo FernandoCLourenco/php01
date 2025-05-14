@@ -53,4 +53,11 @@ switch ($corFavorita) {
 }
  
 $i = 0;
-while
+while($i<10){
+    echo "<br>vambora";
+    $i = $i +1;
+}
+for($i = 0; $i <10; $i=$i+1){
+    echo"<br>vambora2";
+}
+?>
